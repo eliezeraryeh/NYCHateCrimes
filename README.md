@@ -7,12 +7,9 @@ Created with python using the folium dataviz library. Data taken from NYC hate c
  
 <img width="889" alt="Results" src="https://user-images.githubusercontent.com/118327305/202298793-19d9186c-617a-49eb-9d99-6cb17921246c.png">
 
-#### Sources:
+##### Sources:
 
-##### NYC Hate Crimes Reports:
-
-https://www.nyc.gov/site/nypd/stats/reports-analysis/hate-crimes.page
-
-NYC OpenData Portal Police Precincts GeoJSON File:
-
-https://data.cityofnewyork.us/Public-Safety/Police-Precincts/78dh-3ptz
+###### NYC Hate Crimes Reports:
+###### https://www.nyc.gov/site/nypd/stats/reports-analysis/hate-crimes.page
+###### NYC OpenData Portal Police Precincts GeoJSON File:
+###### https://data.cityofnewyork.us/Public-Safety/Police-Precincts/78dh-3ptz
